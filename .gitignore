@@ -6,3 +6,4 @@ build/
 *.pyc
 coverage/
 .cache/
+tmp/
